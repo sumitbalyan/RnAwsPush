@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "456756578447",
+    "firebase_url": "https://aws-msg.firebaseio.com",
+    "project_id": "aws-msg",
+    "storage_bucket": "aws-msg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456756578447:android:bda29bea083a2d7cd448fa",
+        "android_client_info": {
+          "package_name": "com.rnawspush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456756578447-3ue5pgov41c87gk2s2c1p22rqhclj964.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWP-cxt9wjuL1sdBGLhl6iqF7Y0f1DjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456756578447-3ue5pgov41c87gk2s2c1p22rqhclj964.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

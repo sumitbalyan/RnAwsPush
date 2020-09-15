@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "cognitoa8f4b97e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation"
+    }
+  },
+  "notifications": {
+    "RnAwsPushLR2xP": {
+      "service": "Pinpoint",
+      "channels": [
+        "FCM"
+      ]
+    }
+  },
+  "analytics": {
+    "RnAwsPushLR2xP": {
+      "service": "Pinpoint",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}

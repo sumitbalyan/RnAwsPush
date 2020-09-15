@@ -1,0 +1,27 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-rnawspush-dev-95058-authRole",
+            "UnauthRoleArn": "arn:aws:iam::362110023682:role/amplify-rnawspush-dev-95058-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::362110023682:role/amplify-rnawspush-dev-95058-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-rnawspush-dev-95058-deployment",
+            "UnauthRoleName": "amplify-rnawspush-dev-95058-unauthRole",
+            "StackName": "amplify-rnawspush-dev-95058",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:362110023682:stack/amplify-rnawspush-dev-95058/dc85a0a0-f70a-11ea-870b-066f4415ff9e",
+            "AmplifyAppId": "d19z70m2bco45c"
+        },
+        "categories": {
+            "auth": {
+                "cognitoa8f4b97e": {}
+            },
+            "notifications": {
+                "Pinpoint": {
+                    "Name": "RnAwsPushLR2xP-dev",
+                    "Id": "3675563077a04ad3b4c7f4444c36f14f",
+                    "Region": "us-west-2"
+                }
+            }
+        }
+    }
+}

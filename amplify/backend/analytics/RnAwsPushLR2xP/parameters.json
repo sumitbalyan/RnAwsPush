@@ -1,0 +1,22 @@
+{
+    "appName": "RnAwsPushLR2xP",
+    "roleName": "pinpointLambdaRolebd905ed1",
+    "cloudformationPolicyName": "cloudformationPolicybd905ed1",
+    "cloudWatchPolicyName": "cloudWatchPolicybd905ed1",
+    "pinpointPolicyName": "pinpointPolicybd905ed1",
+    "authPolicyName": "pinpoint_amplify_bd905ed1",
+    "unauthPolicyName": "pinpoint_amplify_bd905ed1",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    },
+    "appId": "3675563077a04ad3b4c7f4444c36f14f"
+}
